@@ -6,6 +6,8 @@ HVE is not vibe coding. It's about embedding reusable **primitives** — instruc
 
 > 📖 **[Interactive Architecture Guide](https://valentina-alto.github.io/hve-primitives/architecture.html)** — explore the full primitive catalog, orchestration model, and frontmatter anatomy.
 
+![alt text](hve-primitives.gif)
+
 ## What's in This Repo
 
 | Primitive | File | Purpose |
